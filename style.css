@@ -1,0 +1,13 @@
+body {
+    background: black;
+}
+p{
+  line-height: 10px;
+  font-size: 14px;
+  background: url(felicia.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(0, 155, 255, 0.1);
+}
